@@ -111,6 +111,12 @@ h5 {
 
 h6 {
   font-size: 16px; }
+.people-text{
+  margin-top: 60px;
+}
+.container-download{
+  margin-top: -150px;
+}
 
 a {
   color: #E84C3D;
